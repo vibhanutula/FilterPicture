@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 173, 173);
+    color: rgb(97, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input{
+    border: 3px rgb(97, 0, 0) dashed;
+    border-radius: 10px;
+    background-color: rgb(255, 173, 173);
+    color: rgb(97, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    background-color: rgb(238, 97, 97);
+    color: rgb(97, 0, 0);
+    border: 3px rgb(97, 0, 0) dashed;
+    border-radius: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+}
+
+canvas{
+    border: dashed 3px rgb(97, 0, 0);
+    margin-bottom: 150px;
+}
